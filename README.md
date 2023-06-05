@@ -24,11 +24,17 @@ By answering these questions,Amazon may strengthen its price policies and obtain
 
 
 **Correlation Heatmap**
+
+
 ![correlation-Heatmap](Correlation_Heatmap.jpg)
 
 **OLS Regression Results**
+
+
 ![OLS-Regression-1](OLS_regression_Result.jpg)
 ![OLS-Regression-2](OLS_regression_Result_2.jpg)
 
-++Probability++
-![Prob_plot](Porbability.jpg)
+**Probability**
+
+
+![Prob_plot](Porbability_plot.jpg)
